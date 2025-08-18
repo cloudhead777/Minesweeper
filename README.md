@@ -1,4 +1,4 @@
-# 🧩 Minesweeper
+# 💣 Minesweeper
 
 A simple implementation of the classic **Minesweeper** game. The player must clear a board containing hidden mines without detonating any, using numerical clues to deduce the locations of mines.
 
