@@ -10,7 +10,7 @@ MINES = 8
 
 # Colors
 BLACK = (0, 0, 0)
-GRAY = (180, 180, 180)
+GRAY = (180, 180, 18)
 WHITE = (255, 255, 255)
 
 # Create game
