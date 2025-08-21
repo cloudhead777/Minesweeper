@@ -1,4 +1,4 @@
-import itertools
+import itertool
 import random
 import copy
 
